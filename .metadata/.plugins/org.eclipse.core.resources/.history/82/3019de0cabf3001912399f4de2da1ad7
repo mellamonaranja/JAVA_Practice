@@ -1,0 +1,9 @@
+
+public class OperatorEx02 {
+	public static void main(String[] args) {
+		
+		System.out.println("Á¤¼öÇü ³ª´°¼À: " + 7/3);
+		
+	}
+
+}

@@ -1,0 +1,30 @@
+
+public class VariableDoubleEx01 {
+	public static void main(String[] args) {
+		
+//		int num1;
+//		num1 = 10.00;
+	
+		double num1;
+		double num2;
+		num1 = 11.0000001;
+		num2 = 22.0000002;
+		
+		System.out.println("num1 : " + num1);
+		System.out.println("num2 : " + num2);
+			
+		
+		float f1;
+		f1 = 9.1f;
+		System.out.println("f1 : " + f1);
+		
+		double d1;
+		d1 = 9.8;
+		
+		double d2 = 9.8;
+		System.out.println("d1 : " + d1);
+		
+		
+	}
+
+}

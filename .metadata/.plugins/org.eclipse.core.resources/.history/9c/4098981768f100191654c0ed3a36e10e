@@ -1,0 +1,22 @@
+
+public class VariableDoubleEx01 {
+	public static void main(String[] args) {
+		
+//		int num1;
+//		num1 = 10.00;
+	
+		double num1;
+		double num2;
+		num1 = 11.0000001;
+		num2 = 11.0000002;
+		
+		System.out.println("num1 : " + num1);
+		System.out.println("num2 : " + num2);
+			
+		result = num1 + num2;
+		System.out.println(" result " + result);
+		
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;come.dateEx&apos; to &apos;com.dateEx&apos;&#x0D;&#x0A;- Original project: &apos;Ch10-Object&apos;&#x0D;&#x0A;- Original element: &apos;Ch10-Object/src/come.dateEx&apos;&#x0D;&#x0A;- Renamed element: &apos;Ch10-Object/src/com.dateEx&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;come.dateEx&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;come.dateEx" name="com.dateEx" qualified="false" references="true" stamp="1574126742450" textual="false" version="1.0"/>
+</session>

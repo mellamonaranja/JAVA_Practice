@@ -1,0 +1,26 @@
+
+public class OperatorEx13 {
+	
+	public static void main(String [] args) {
+		
+		int num1 = 0;
+		int num2 = 0;
+		boolean 0;
+		
+		result = (num1+=10)<0 && (num2+=10)>0;
+//		my expectation 10<0 and 10>0 -->false
+//		my expectation result=false, num1=10, num2=0
+		
+		System.out.println("num1 : "+ num1);
+		System.out.println("num2 : "+ num2);
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

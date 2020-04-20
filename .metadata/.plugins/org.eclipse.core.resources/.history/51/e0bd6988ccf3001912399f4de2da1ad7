@@ -1,0 +1,25 @@
+
+public class OperatorEx12 {
+	
+	public static void main(String[] args) {
+		
+		System.out.println("논리곱");
+		
+		int a = 10;
+		int b = 10;
+
+//		boolean c = true && false;
+//		true를 만드는 관계연산식 && false를 만드는 관계연산식
+		boolean c = (a++ > ++b) && (++a > b++);
+//		10 > 11 and 12 > 11 -->false
+//		c=false
+		
+		System.out.println("c: " + c);
+		System.out.println("b: " + b);
+		System.out.println("a: " + a);
+		
+		
+		
+	}
+
+}

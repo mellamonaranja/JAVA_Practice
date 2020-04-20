@@ -1,0 +1,13 @@
+
+public class VariableEx04 {
+	
+	public static void main(String [] args) {
+		
+		
+		char ch1;
+		ch1 = 'A';
+		
+		System.out.println(ch1);
+	}
+
+}

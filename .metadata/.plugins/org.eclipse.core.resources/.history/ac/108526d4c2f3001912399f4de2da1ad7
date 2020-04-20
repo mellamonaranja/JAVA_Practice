@@ -1,0 +1,19 @@
+
+public class OperatorEx09 {
+	public static void main(String []args) {
+		
+		int i1 = 5;
+		int i2 = 5;
+		
+		System.out.println("증가연산자 선행: " + ++i1);
+		System.out.println("i1 :" + i1);
+		System.out.println("증가연산자 선행: " + i1++);
+		System.out.println("증가연산자 선행: " + --i1);
+		System.out.println("증가연산자 선행: " + i1--);
+
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,25 @@
+
+public class OperatorEx08 {
+	
+	public static void main(String [] args) {
+		
+		int a = 10;
+		float b = 10.0f;
+		
+//		if(조건식:true) {
+//		()안의 조건이 참인 경우에만 {}안을 수행
+		
+		if(a == b) {
+			System.out.println("a와 b는 같습니다.");
+			System.out.println("a : " + a);
+			System.out.println("b : " + b);
+			
+			
+			
+		}
+		
+		
+		
+	}
+
+}

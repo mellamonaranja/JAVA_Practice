@@ -1,0 +1,13 @@
+
+public class OperatorEx03 {
+	public static void main(String [] args) {
+		
+		float f = 123.77777f;
+		double d = 234.88888;
+		
+		System.out.println(f);
+		System.out.println(d);
+		
+	}
+
+}

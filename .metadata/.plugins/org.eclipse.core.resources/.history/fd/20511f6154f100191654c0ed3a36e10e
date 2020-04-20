@@ -1,0 +1,15 @@
+
+public class VariableTypeEx02 {
+	public static void main(String [] args) {
+		
+//		1byte : -128~127
+		byte b1=127;
+	
+		System.out.println("bi = " + b1);
+		
+//byte b2=128;
+		
+		
+	}
+
+}

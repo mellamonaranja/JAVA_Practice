@@ -1,0 +1,16 @@
+
+public class VariableDoubleEx01 {
+	public static void main(String[] args) {
+		
+//		int num1;
+//		num1 = 10.00;
+	
+		double num1;
+		num1 = 11.0000001;
+		
+		System.out.println("num1 : " + num1);
+		
+		
+	}
+
+}

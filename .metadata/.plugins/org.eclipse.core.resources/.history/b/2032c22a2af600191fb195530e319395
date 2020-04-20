@@ -1,0 +1,20 @@
+
+public class ForEx04 {
+
+	public static void main(String[] args) {
+		
+//		for이용하여, 단에 해당하는 정수 하나를 입력받아, 해당 단의 구구단을 출력
+		int i;
+		java.util.Scanner input= new java.util.Scanner(System.in);
+		
+		i=input.nextInt();
+		
+		System.out.println("단 입력>");
+		
+		
+		
+	
+
+	}
+
+}

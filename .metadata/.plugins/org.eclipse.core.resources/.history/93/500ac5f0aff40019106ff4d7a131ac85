@@ -1,0 +1,16 @@
+import java.util.Date;
+
+
+public class test {
+
+	public static void main(String[] args) {
+		
+		Date now = new Date();
+		System.out.printf("오늘은 %tY년 %tm월 %td일입니다.\n", now, now, now);
+		System.out.printf("현재는 %tH시%tM분%tS초입니다. \n", now, now, now);
+
+		System.out.println(now);
+		
+	}
+
+}

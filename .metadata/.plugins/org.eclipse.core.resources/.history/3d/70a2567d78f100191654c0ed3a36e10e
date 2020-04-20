@@ -1,0 +1,15 @@
+
+public class CastEx03 {
+
+	public static void main(String [] args) {
+		
+		System.out.println("======프로모션======");
+		
+		byte b1 = 127;
+		byte b2 = 127;
+		
+//		byte b3 = b1 + b2;
+		int i1 = b1 + b2;
+		System.out.println(i1);
+	}
+}

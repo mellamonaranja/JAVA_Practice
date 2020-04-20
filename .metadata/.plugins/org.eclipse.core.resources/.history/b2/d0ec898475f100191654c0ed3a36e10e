@@ -1,0 +1,12 @@
+
+public class CastEx01 {
+	public static void main(String[] args) {
+		
+		char ch1='A';
+		char ch2='Z';
+		
+		
+		
+	}
+
+}
